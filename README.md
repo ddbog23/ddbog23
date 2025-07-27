@@ -2,7 +2,7 @@
 - 👀 I’m interested in qa, python, Data Analyst
 - 🌱 I’m currently learning work in testing as well as programming
 - 💞️ I’m looking to collaborate on Yandex, Tinkoff and Sber
-- 📫 How to reach me abogush1917@mail.ru or telegramm @danilldi
+- 📫 How to reach me - telegramm @ddbog01
 - 😄 Pronouns: 
 - ⚡ Fun fact: I have worked as a sales manager all my life
 
