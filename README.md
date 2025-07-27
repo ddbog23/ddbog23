@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddbog23
-- 👀 I’m interested in qa, js, sql
+- 👀 I’m interested in qa, python, Data Analyst
 - 🌱 I’m currently learning work in testing as well as programming
 - 💞️ I’m looking to collaborate on Yandex, Tinkoff and Sber
 - 📫 How to reach me abogush1917@mail.ru or telegramm @danilldi
